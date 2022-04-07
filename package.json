@@ -1,0 +1,24 @@
+{
+  "name": "closures-y-scope-en-javascript",
+  "version": "1.0.0",
+  "description": "Work with closures and scope in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giomoncas/Closures-y-Scope-en-JavaScript.git"
+  },
+  "keywords": [
+    "Closures",
+    "Scope",
+    "JavaScript"
+  ],
+  "author": "Giovanni Montoya <giovanni87070665@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Giomoncas/Closures-y-Scope-en-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Giomoncas/Closures-y-Scope-en-JavaScript#readme"
+}
